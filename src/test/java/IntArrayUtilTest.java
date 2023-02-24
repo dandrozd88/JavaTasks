@@ -1,4 +1,4 @@
-import org.example.IntArrayUtil;
+import org.example.intArrayUtil.IntArrayUtil;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;

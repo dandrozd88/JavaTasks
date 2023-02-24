@@ -1,4 +1,4 @@
-package org.example;
+package org.example.intArrayUtil;
 
 public class IntArrayUtil {
     public static int[] swapEven(int[] array) {
